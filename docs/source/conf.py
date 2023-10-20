@@ -3,8 +3,8 @@
 # -- Project information
 
 project = 'ETSAP - TIMES Reference'
-copyright = '2021, Graziella'
-author = 'Graziella'
+copyright = '2023, ESMIA'
+author = 'ESMIA'
 
 release = '0.1'
 version = '0.1.0'
@@ -28,8 +28,6 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
-
-templates_path = ['_templates']
 
 # -- Options for HTML output
 
