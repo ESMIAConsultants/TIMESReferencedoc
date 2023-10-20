@@ -21,6 +21,7 @@ extensions = [
 ]
 
 bibtex_bibfiles = ['ETSAP_TIMES References_2023-09-22.bib']
+bibtex_default_style = 'plain'
 bibtex_reference_style ='author_year'
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
