@@ -9,7 +9,7 @@ and offers a *simple* and *intuitive* API.
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-Lumache has its documentation hosted on Read the Doccs : :cite:t:`AbdAlla2021`
+Lumache has its documentation hosted on Read the Doccs : 
 
 .. note::
 
@@ -24,3 +24,4 @@ Contents
    api
 
 .. bibliography::
+   :all:
