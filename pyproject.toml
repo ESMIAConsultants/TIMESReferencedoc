@@ -3,6 +3,6 @@ requires = ["flit_core >=3.2,<4"]
 build-backend = "flit_core.buildapi"
 
 [project]
-name = "IEA-ETSAP MARKAL/TIMES list of references"
+name = "IEA-ETSAP MARKAL/TIMES References"
 authors = [{name = "ESMIA", email = "info@esmia.ca"}]
 dynamic = ["version", "description"]
