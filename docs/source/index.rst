@@ -1,4 +1,4 @@
-IEA-ETSAP MARKAL/TIMES list of References
+References
 ===================================
 
 This is a comprehensive list of studies using MARKAL/TIMES models.
