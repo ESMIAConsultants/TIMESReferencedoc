@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'IEA-ETSAP Markal/TIMES'
+project = 'IEA-ETSAP MARKAL/TIMES References'
 copyright = '2023, ESMIA'
 author = 'ESMIA'
 
