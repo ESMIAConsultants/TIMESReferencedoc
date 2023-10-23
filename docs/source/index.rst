@@ -1,7 +1,7 @@
-Welcome to ETSAP - TIMES Reference
+Welcome to the IEA-ETSAP MARKAL/TIMES list of References
 ===================================
 
-This is a list of all reference connected to ETSAP - TIMES
+This is a comprehensive list of studies using MARKAL/TIMES models.
 
 .. bibliography::
    :all:
